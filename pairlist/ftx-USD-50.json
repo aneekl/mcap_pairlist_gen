@@ -1,0 +1,62 @@
+{
+    "exchange": {
+        "name": "ftx",
+        "pair_whitelist": [
+            "BTC/USD",
+            "ETH/USD",
+            "BNB/USD",
+            "XRP/USD",
+            "SOL/USD",
+            "DOT/USD",
+            "DOGE/USD",
+            "WBTC/USD",
+            "TRX/USD",
+            "STETH/USD",
+            "AVAX/USD",
+            "SHIB/USD",
+            "LEO/USD",
+            "LTC/USD",
+            "CRO/USD",
+            "MATIC/USD",
+            "NEAR/USD",
+            "BCH/USD",
+            "LINK/USD",
+            "OKB/USD",
+            "ATOM/USD",
+            "ALGO/USD",
+            "UNI/USD",
+            "APE/USD",
+            "SAND/USD",
+            "AXS/USD",
+            "MANA/USD",
+            "AAVE/USD",
+            "HT/USD",
+            "MKR/USD",
+            "GRT/USD",
+            "BTT/USD",
+            "FTM/USD",
+            "RUNE/USD",
+            "GT/USD",
+            "HNT/USD",
+            "BIT/USD",
+            "NEXO/USD",
+            "GMT/USD",
+            "LRC/USD",
+            "CHZ/USD",
+            "CVX/USD",
+            "SNX/USD",
+            "GALA/USD",
+            "ENJ/USD",
+            "BAT/USD",
+            "CRV/USD",
+            "XAUT/USD",
+            "WAVES/USD",
+            "FXS/USD"
+        ]
+    },
+    "pairlists": [
+        {
+            "method": "StaticPairList"
+        }
+    ]
+}

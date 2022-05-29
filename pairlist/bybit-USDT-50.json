@@ -1,0 +1,62 @@
+{
+    "exchange": {
+        "name": "bybit",
+        "pair_whitelist": [
+            "BTC/USDT",
+            "ETH/USDT",
+            "BNB/USDT",
+            "XRP/USDT",
+            "ADA/USDT",
+            "SOL/USDT",
+            "DOT/USDT",
+            "DOGE/USDT",
+            "WBTC/USDT",
+            "TRX/USDT",
+            "STETH/USDT",
+            "AVAX/USDT",
+            "SHIB/USDT",
+            "LTC/USDT",
+            "MATIC/USDT",
+            "FTT/USDT",
+            "NEAR/USDT",
+            "BCH/USDT",
+            "XLM/USDT",
+            "LINK/USDT",
+            "ATOM/USDT",
+            "ALGO/USDT",
+            "FLOW/USDT",
+            "UNI/USDT",
+            "HBAR/USDT",
+            "APE/USDT",
+            "XTZ/USDT",
+            "ICP/USDT",
+            "EGLD/USDT",
+            "FIL/USDT",
+            "SAND/USDT",
+            "AXS/USDT",
+            "MANA/USDT",
+            "AAVE/USDT",
+            "EOS/USDT",
+            "KLAY/USDT",
+            "THETA/USDT",
+            "MKR/USDT",
+            "GRT/USDT",
+            "BTT/USDT",
+            "FTM/USDT",
+            "XEC/USDT",
+            "QNT/USDT",
+            "RUNE/USDT",
+            "CAKE/USDT",
+            "LUNC/USDT",
+            "HNT/USDT",
+            "NEXO/USDT",
+            "ZIL/USDT",
+            "KSM/USDT"
+        ]
+    },
+    "pairlists": [
+        {
+            "method": "StaticPairList"
+        }
+    ]
+}

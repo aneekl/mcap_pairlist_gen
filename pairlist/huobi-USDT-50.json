@@ -1,0 +1,62 @@
+{
+    "exchange": {
+        "name": "huobi",
+        "pair_whitelist": [
+            "BTC/USDT",
+            "ETH/USDT",
+            "BNB/USDT",
+            "XRP/USDT",
+            "ADA/USDT",
+            "SOL/USDT",
+            "DOT/USDT",
+            "DOGE/USDT",
+            "WBTC/USDT",
+            "TRX/USDT",
+            "AVAX/USDT",
+            "SHIB/USDT",
+            "LTC/USDT",
+            "CRO/USDT",
+            "MATIC/USDT",
+            "FTT/USDT",
+            "NEAR/USDT",
+            "BCH/USDT",
+            "XMR/USDT",
+            "XLM/USDT",
+            "LINK/USDT",
+            "ETC/USDT",
+            "XCN/USDT",
+            "ATOM/USDT",
+            "ALGO/USDT",
+            "FLOW/USDT",
+            "UNI/USDT",
+            "VET/USDT",
+            "HBAR/USDT",
+            "APE/USDT",
+            "XTZ/USDT",
+            "ICP/USDT",
+            "EGLD/USDT",
+            "FIL/USDT",
+            "SAND/USDT",
+            "AXS/USDT",
+            "MANA/USDT",
+            "AAVE/USDT",
+            "EOS/USDT",
+            "KLAY/USDT",
+            "THETA/USDT",
+            "ZEC/USDT",
+            "MKR/USDT",
+            "BSV/USDT",
+            "GRT/USDT",
+            "BTT/USDT",
+            "FTM/USDT",
+            "XEC/USDT",
+            "GT/USDT",
+            "CAKE/USDT"
+        ]
+    },
+    "pairlists": [
+        {
+            "method": "StaticPairList"
+        }
+    ]
+}

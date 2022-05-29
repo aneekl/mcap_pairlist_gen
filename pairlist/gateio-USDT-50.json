@@ -1,0 +1,62 @@
+{
+    "exchange": {
+        "name": "gateio",
+        "pair_whitelist": [
+            "BTC/USDT",
+            "ETH/USDT",
+            "BNB/USDT",
+            "XRP/USDT",
+            "ADA/USDT",
+            "SOL/USDT",
+            "DOT/USDT",
+            "DOGE/USDT",
+            "WBTC/USDT",
+            "TRX/USDT",
+            "STETH/USDT",
+            "AVAX/USDT",
+            "SHIB/USDT",
+            "LEO/USDT",
+            "LTC/USDT",
+            "CRO/USDT",
+            "MATIC/USDT",
+            "FTT/USDT",
+            "NEAR/USDT",
+            "BCH/USDT",
+            "XMR/USDT",
+            "XLM/USDT",
+            "LINK/USDT",
+            "ETC/USDT",
+            "OKB/USDT",
+            "XCN/USDT",
+            "ATOM/USDT",
+            "ALGO/USDT",
+            "FLOW/USDT",
+            "UNI/USDT",
+            "VET/USDT",
+            "TFUEL/USDT",
+            "HBAR/USDT",
+            "APE/USDT",
+            "XTZ/USDT",
+            "ICP/USDT",
+            "EGLD/USDT",
+            "FIL/USDT",
+            "SAND/USDT",
+            "AXS/USDT",
+            "MANA/USDT",
+            "FRAX/USDT",
+            "AAVE/USDT",
+            "EOS/USDT",
+            "KLAY/USDT",
+            "THETA/USDT",
+            "ZEC/USDT",
+            "HT/USDT",
+            "MKR/USDT",
+            "BSV/USDT"
+        ]
+    },
+    "pairlists": [
+        {
+            "method": "StaticPairList"
+        }
+    ]
+}

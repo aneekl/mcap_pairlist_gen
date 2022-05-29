@@ -1,0 +1,62 @@
+{
+    "exchange": {
+        "name": "binance",
+        "pair_whitelist": [
+            "BTC/BUSD",
+            "ETH/BUSD",
+            "XRP/BUSD",
+            "ADA/BUSD",
+            "SOL/BUSD",
+            "DOT/BUSD",
+            "DOGE/BUSD",
+            "TRX/BUSD",
+            "AVAX/BUSD",
+            "SHIB/BUSD",
+            "LTC/BUSD",
+            "MATIC/BUSD",
+            "FTT/BUSD",
+            "NEAR/BUSD",
+            "BCH/BUSD",
+            "XMR/BUSD",
+            "XLM/BUSD",
+            "LINK/BUSD",
+            "ETC/BUSD",
+            "ATOM/BUSD",
+            "ALGO/BUSD",
+            "FLOW/BUSD",
+            "UNI/BUSD",
+            "VET/BUSD",
+            "TFUEL/BUSD",
+            "HBAR/BUSD",
+            "APE/BUSD",
+            "XTZ/BUSD",
+            "ICP/BUSD",
+            "EGLD/BUSD",
+            "FIL/BUSD",
+            "SAND/BUSD",
+            "AXS/BUSD",
+            "MANA/BUSD",
+            "AAVE/BUSD",
+            "EOS/BUSD",
+            "KLAY/BUSD",
+            "THETA/BUSD",
+            "ZEC/BUSD",
+            "MKR/BUSD",
+            "GRT/BUSD",
+            "FTM/BUSD",
+            "XEC/BUSD",
+            "QNT/BUSD",
+            "RUNE/BUSD",
+            "CAKE/BUSD",
+            "NEO/BUSD",
+            "HNT/BUSD",
+            "NEXO/BUSD",
+            "ZIL/BUSD"
+        ]
+    },
+    "pairlists": [
+        {
+            "method": "StaticPairList"
+        }
+    ]
+}
