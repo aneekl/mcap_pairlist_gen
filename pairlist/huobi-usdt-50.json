@@ -10,7 +10,6 @@
             "SOL/USDT",
             "DOT/USDT",
             "DOGE/USDT",
-            "WBTC/USDT",
             "TRX/USDT",
             "AVAX/USDT",
             "SHIB/USDT",
@@ -33,8 +32,8 @@
             "HBAR/USDT",
             "APE/USDT",
             "XTZ/USDT",
-            "ICP/USDT",
             "EGLD/USDT",
+            "ICP/USDT",
             "FIL/USDT",
             "SAND/USDT",
             "AXS/USDT",
@@ -51,7 +50,8 @@
             "FTM/USDT",
             "XEC/USDT",
             "GT/USDT",
-            "CAKE/USDT"
+            "CAKE/USDT",
+            "LUNC/USDT"
         ]
     },
     "pairlists": [
