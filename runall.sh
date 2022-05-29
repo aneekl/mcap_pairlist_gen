@@ -1,7 +1,6 @@
 #!/bin/bash
 
 current_pwd=`pwd`
-#coins=80
 
 ${current_pwd}/gen.sh $1 usd ftx && sleep 2
 ${current_pwd}/gen.sh $1 usdt ftx  && sleep 2
