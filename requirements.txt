@@ -1,2 +1,2 @@
-freqtrade~=2021.12
+freqtrade~=2022.5
 pycoingecko~=2.2.0
