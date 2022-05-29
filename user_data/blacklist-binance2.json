@@ -1,0 +1,39 @@
+{
+    "entry_pricing": {
+        "price_side": "other",
+        "use_order_book": false, // true for futures binance
+        "order_book_top": 1,
+        "price_last_balance": 0.0,
+        "check_depth_of_market": {
+            "enabled": false,
+            "bids_to_ask_delta": 1
+        }
+    },
+    "exit_pricing": {
+        "price_side": "other",
+        "use_order_book": false, // true for futures binance
+        "order_book_top": 1
+    },
+    "exchange": {
+      "name": "binance",
+      "pair_blacklist": [
+        // Exchange
+        "(BNB)/.*",
+         // Leverage
+         ".*(_PREMIUM|BEAR|BULL|DOWN|HALF|HEDGE|UP|[1235][SL])/.*",
+        // Fiat
+        "(AUD|BRZ|CAD|CHF|EUR|GBP|HKD|IDRT|JPY|NGN|RUB|SGD|TRY|UAH|USD|ZAR)/.*",
+        // Stable
+        "(BUSD|CUSDT|DAI|PAX|PAXG|SUSD|TUSD|USDC|USDT|USDP|VAI|UST)/.*",
+        // FAN
+        "(ACM|AFA|ALA|ALL|APL|ASR|ATM|BAR|CAI|CITY|FOR|GAL|GOZ|IBFK|JUV|LAZIO|LEG|LOCK-1|NAVI|NOV|OG|PFL|PORTO|PSG|ROUSH|SANTOS|STV|TH|TRA|UCH|UFC|YBO)/.*",
+        // Others
+        //"(DOGE|SHIB|BTG|BCH|FXS|ICP|WBTC|MINA|AUDIO|PEOPLE)/.*",
+        // Gaming
+        //"(GALA|ILV|MBOX|PLA|DVI|ALICE)/.*",
+        // Metaverse
+        //"(SAND|META|ENJ|UFO|CEEK)/.*"
+        "(WBTC|SLP)/.*"
+      ]
+    }
+  }
