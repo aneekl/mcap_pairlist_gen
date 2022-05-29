@@ -23,7 +23,6 @@
             "RUNE/USDT",
             "HNT/USDT",
             "CHZ/USDT",
-            "XAUT/USDT",
             "COMP/USDT",
             "SRM/USDT",
             "SUSHI/USDT",
@@ -51,7 +50,8 @@
             "UBXT/USDT",
             "LUA/USDT",
             "GST/USDT",
-            "HGET/USDT"
+            "HGET/USDT",
+            "DMG/USDT"
         ]
     },
     "pairlists": [

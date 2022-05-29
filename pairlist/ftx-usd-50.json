@@ -49,9 +49,9 @@
             "ENJ/USD",
             "BAT/USD",
             "CRV/USD",
-            "XAUT/USD",
             "WAVES/USD",
-            "FXS/USD"
+            "FXS/USD",
+            "COMP/USD"
         ]
     },
     "pairlists": [
